@@ -1,2 +1,0 @@
-import shutil is very goood library
-for copy file to other file 

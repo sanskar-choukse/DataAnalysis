@@ -1,9 +1,0 @@
-
-Activating Python Anaconda environment:
-conda activate C:\Users\admin\Documents\PYTHON1.0\venv
-
-Deactivating Python Anaconda environment:
-conda deactivate
-
-Getting All conda environment links:
-conda info --envs
